@@ -1,4 +1,4 @@
-#  
+#  rivals vip Script offers the most advanced rivals Script, with auto-collect and fly. Perfect for dominating any match.
 
 
 
